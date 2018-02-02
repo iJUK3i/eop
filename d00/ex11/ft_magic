@@ -1,0 +1,9 @@
+#!/bin/bash
+$type = 'find . -name *.42'
+
+if [ $type = '42 file' ]
+	then
+		echo "it is!"
+	else
+		echo "nope!"
+fi

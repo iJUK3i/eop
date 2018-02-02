@@ -1,0 +1,3 @@
+a program that runs and saves the functions results to an array / or struct
+for later commparing against other functions run. kind of like a checker to
+	see if the other function still gives the same result as this function.
